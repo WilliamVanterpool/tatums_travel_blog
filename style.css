@@ -1,0 +1,23 @@
+*{
+    font-family: Arial;
+}
+h1{
+    font-family: Century;
+}
+h3{
+    font-family: Century;
+}
+body{
+    background-color: teal;
+}
+article{
+    background-color: linear-gradient(90deg, rgba(0,255,222,1) 0%, rgba(0,1,255,1) 50%, rgba(0,255,222,1) 100%);;
+}
+header{
+    background-image: url(https://images.unsplash.com/photo-1470125634816-ede3f51bbb42?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c3Vuc2V0JTIwcGFub3JhbWF8ZW58MHx8MHx8&w=1000&q=80);
+    background-size: cover;
+    color: lightsalmon;
+}
+a{
+    color: lightsalmon;
+}
