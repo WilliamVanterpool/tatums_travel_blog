@@ -18,6 +18,10 @@ header{
     background-size: cover;
     color: lightsalmon;
 }
+/* link styles */
 a{
     color: lightsalmon;
+}
+a:hover{
+    text-decoration:overline underline dimgray curly;
 }
